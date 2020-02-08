@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basket Score</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="_2_point">+2 point</string>
+    <string name="_4_point">+4 point</string>
+    <string name="_8_point">+8 point</string>
+    <string name="_3_point">+3 point</string>
+    <string name="_6">+6 point</string>
+    <string name="_9_point">+9 point</string>
+    <string name="reset">Reset</string>
+</resources>
